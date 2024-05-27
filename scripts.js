@@ -23,7 +23,7 @@ function cliqueiNoBotao() {
 }
 
 function cliqueiNaMascara() {
-mascara.style.visibility = "hidden"
-form.style.left = "-300px"
+   mascara.style.visibility = "hidden"
+   form.style.left = "-300px"
 
 }
