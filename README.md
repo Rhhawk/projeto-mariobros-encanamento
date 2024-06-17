@@ -6,3 +6,10 @@ nesse projeto eu ultilizei as tecnicologias: </p>
 
 **HTML5, CSS e JavaScript;**
 
+<img src="https://github.com/Rhhawk/projeto-mariobros-encanamento/blob/master/img/mario-desktop.png" > 
+<div align="center"> 
+  <img src="https://github.com/Rhhawk/projeto-mariobros-encanamento/blob/master/img/celular-mario.png" > 
+
+</div>
+
+
